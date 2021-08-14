@@ -1,0 +1,3 @@
+[submodule "odooSupermarketManagementTest"]
+	path = odooSupermarketManagementTest
+	url = https://github.com/soferdani/odooSupermarketManagementTest.git
